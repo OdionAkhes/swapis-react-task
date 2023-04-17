@@ -16,3 +16,7 @@ This repository contains the code for a Star Wars movies website, which showcase
 ### Optional Requirements
 
 - Each movie card may have a unique **background image** related to the movie.
+
+## API
+
+This project uses the **Star Wars API (SWAPI)** to fetch movie data. You can find more information about the API at [swapi.dev](https://swapi.dev/).
